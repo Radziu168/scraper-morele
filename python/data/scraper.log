@@ -1,0 +1,157 @@
+2026-04-07 01:46:41 [INFO] scraper — === Start scrapowania ===
+2026-04-07 01:46:42 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 01:46:42 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 01:46:42 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 01:46:46 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 01:46:46 [INFO] scraper —   ⚪ 2872.76 zł (bez zmian)
+2026-04-07 01:46:46 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 01:46:46 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 01:46:47 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 01:46:48 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 01:46:48 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 01:46:48 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 01:46:49 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 01:46:49 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 01:46:49 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 01:49:28 [INFO] scraper — === Start scrapowania ===
+2026-04-07 01:49:29 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 01:49:29 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 01:49:29 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 01:49:30 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 01:49:30 [INFO] scraper —   ⚪ 2872.76 zł (bez zmian)
+2026-04-07 01:49:30 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 01:49:30 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 01:49:31 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 01:49:32 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 01:49:32 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 01:49:32 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 01:49:33 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 01:49:33 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 01:49:33 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 01:59:22 [INFO] add_product — Dodaję produkt: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 01:59:23 [DEBUG] scraper — Scrapuję: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 01:59:27 [DEBUG] scraper — Pobrano: Dysk SSD Samsung 990 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P2T0BW) — 1280.89 zł
+2026-04-07 01:59:41 [INFO] add_product — Dodaję produkt: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 01:59:42 [DEBUG] scraper — Scrapuję: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 01:59:43 [DEBUG] scraper — Pobrano: Dysk SSD Samsung 990 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P2T0BW) — 1280.89 zł
+2026-04-07 02:02:28 [INFO] add_product — Dodaję produkt: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 02:02:29 [DEBUG] scraper — Scrapuję: https://www.morele.net/dysk-ssd-samsung-990-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p2t0bw-12231203/
+2026-04-07 02:02:30 [DEBUG] scraper — Pobrano: Dysk SSD Samsung 990 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P2T0BW) — 1280.89 zł
+2026-04-07 02:02:31 [INFO] add_product — ✅ Dodano: Dysk SSD Samsung 990 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P2T0BW) — 1280.89 zł
+2026-04-07 02:06:06 [INFO] scraper — === Start scrapowania ===
+2026-04-07 02:06:07 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 02:06:07 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 02:06:07 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 02:06:08 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 02:06:09 [INFO] scraper —   ⚪ 2872.76 zł (bez zmian)
+2026-04-07 02:06:09 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 02:06:09 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 02:06:10 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 02:06:10 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 02:06:10 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 02:06:10 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 02:06:12 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 02:06:12 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 02:06:12 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 02:07:51 [INFO] scraper — === Start scrapowania ===
+2026-04-07 02:07:52 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 02:07:52 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 02:07:52 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 02:07:54 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 02:07:54 [INFO] scraper —   ⚪ 2872.76 zł (bez zmian)
+2026-04-07 02:07:54 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 02:07:54 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 02:07:55 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 02:07:55 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 02:07:55 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 02:07:55 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 02:07:56 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 02:07:57 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 02:07:57 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 02:10:14 [INFO] scraper — === Start scrapowania ===
+2026-04-07 02:10:15 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 02:10:15 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 02:10:15 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 02:10:16 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 02:10:16 [INFO] scraper —   📉 2872.76 zł (spadła o 327.24 zł)
+2026-04-07 02:10:16 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 02:10:16 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 02:10:18 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 02:10:18 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 02:10:18 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 02:10:18 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 02:10:19 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 02:10:20 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 02:10:20 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 02:12:38 [INFO] scraper — === Start scrapowania ===
+2026-04-07 02:12:39 [INFO] scraper — Scrapuję 3 produktów
+2026-04-07 02:12:39 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 02:12:39 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-07 02:12:40 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-07 02:12:40 [INFO] scraper —   📉 2872.76 zł (spadła o 327.24 zł)
+2026-04-07 02:12:40 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-07 02:12:40 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-07 02:12:41 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-07 02:12:41 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-07 02:12:41 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-07 02:12:41 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-07 02:12:43 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 539.0 zł
+2026-04-07 02:12:43 [INFO] scraper —   ⚪ 539.00 zł (bez zmian)
+2026-04-07 02:12:43 [INFO] scraper — === Koniec scrapowania ===
+2026-04-07 14:48:45 [INFO] notifier — ✅ Discord: wysłano alert dla Gigabyte RTX 5070 Windforce OC SFF
+2026-04-07 14:48:47 [INFO] notifier — ✅ Email: wysłano alert dla Gigabyte RTX 5070 Windforce OC SFF
+2026-04-09 17:52:26 [INFO] scraper — === Start scrapowania ===
+2026-04-09 17:52:35 [INFO] scraper — Scrapuję 3 produktów
+2026-04-09 17:52:35 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-09 17:52:35 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-09 17:52:40 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.09 zł
+2026-04-09 17:52:40 [INFO] scraper —   📉 2872.09 zł (spadła o 327.91 zł)
+2026-04-09 17:52:40 [INFO] scraper —   🔔 Wysyłam powiadomienie (10.2% >= 3.0%)
+2026-04-09 17:52:41 [INFO] notifier — ✅ Discord: wysłano alert dla Gigabyte RTX 5070 Windforce OC SFF
+2026-04-09 17:52:43 [INFO] notifier — ✅ Email: wysłano alert dla Gigabyte RTX 5070 Windforce OC SFF
+2026-04-09 17:52:43 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-09 17:52:43 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-09 17:52:44 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-09 17:52:45 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-09 17:52:45 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-09 17:52:45 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-09 17:52:46 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 739.0 zł
+2026-04-09 17:52:46 [INFO] scraper —   📈 739.00 zł (wzrosła o 200.00 zł)
+2026-04-09 17:52:47 [INFO] scraper — === Koniec scrapowania ===
+2026-04-10 15:37:15 [INFO] scheduler — 🚀 Scheduler uruchomiony — scraping co 0h
+2026-04-10 15:37:15 [INFO] scheduler —    Ctrl+C aby zatrzymać
+2026-04-10 15:37:15 [INFO] scheduler — ⏰ Scheduler uruchamia scraper...
+2026-04-10 15:37:15 [INFO] scraper — === Start scrapowania ===
+2026-04-10 15:37:24 [INFO] scraper — Scrapuję 3 produktów
+2026-04-10 15:37:24 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-10 15:37:24 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-10 15:37:28 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-10 15:37:28 [INFO] scraper —   📈 2872.76 zł (wzrosła o 0.67 zł)
+2026-04-10 15:37:28 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-10 15:37:28 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-10 15:37:29 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-10 15:37:29 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-10 15:37:29 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-10 15:37:29 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-10 15:37:30 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 739.0 zł
+2026-04-10 15:37:31 [INFO] scraper —   ⚪ 739.00 zł (bez zmian)
+2026-04-10 15:37:31 [INFO] scraper — === Koniec scrapowania ===
+2026-04-10 15:37:31 [INFO] scheduler — ✅ Scraper zakończył pracę
+2026-04-10 15:38:15 [INFO] scheduler — ⏰ Scheduler uruchamia scraper...
+2026-04-10 15:38:15 [INFO] scraper — === Start scrapowania ===
+2026-04-10 15:38:16 [INFO] scraper — Scrapuję 3 produktów
+2026-04-10 15:38:16 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-04-10 15:38:16 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-04-10 15:38:17 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 (GV-N5070WF3OC-12GD) — 2872.76 zł
+2026-04-10 15:38:17 [INFO] scraper —   ⚪ 2872.76 zł (bez zmian)
+2026-04-10 15:38:17 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-04-10 15:38:17 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-04-10 15:38:19 [DEBUG] scraper — Pobrano: Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony  (PBA80004SE) — 1404.99 zł
+2026-04-10 15:38:19 [INFO] scraper —   ⚪ 1404.99 zł (bez zmian)
+2026-04-10 15:38:19 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-04-10 15:38:19 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-04-10 15:38:20 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 739.0 zł
+2026-04-10 15:38:20 [INFO] scraper —   ⚪ 739.00 zł (bez zmian)
+2026-04-10 15:38:21 [INFO] scraper — === Koniec scrapowania ===
+2026-04-10 15:38:21 [INFO] scheduler — ✅ Scraper zakończył pracę
+2026-04-10 15:39:15 [INFO] scheduler — ⛔ Scheduler zatrzymany

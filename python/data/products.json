@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-06T01:48:57.525464",
+  "count": 2,
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Pro",
+      "category": "Elektronika",
+      "url": "https://the-internet.herokuapp.com/secure",
+      "heading": "Secure Area",
+      "content": "Secure Area\nWelcome to the Secure Area. When you are done click logout below.\nLogout",
+      "scraped_at": "2026-04-06T01:48:57.349462"
+    },
+    {
+      "id": 2,
+      "name": "Słuchawki BT",
+      "category": "Audio",
+      "url": "https://the-internet.herokuapp.com/secure",
+      "heading": "Secure Area",
+      "content": "Secure Area\nWelcome to the Secure Area. When you are done click logout below.\nLogout",
+      "scraped_at": "2026-04-06T01:48:57.525464"
+    }
+  ]
+}

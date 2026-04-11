@@ -1,0 +1,8 @@
+# .gitignore
+python/.venv/
+python/data/session.json
+python/.env
+nextjs-dashboard/.next/
+nextjs-dashboard/node_modules/
+nextjs-dashboard/.env.local
+.env
