@@ -1,6 +1,6 @@
 # .gitignore
 python/.venv/
-python/data/session.json
+python/data/
 python/.env
 nextjs-dashboard/.next/
 nextjs-dashboard/node_modules/
