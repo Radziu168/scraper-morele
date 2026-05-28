@@ -2,6 +2,7 @@
 python/.venv/
 python/data/
 python/.env
+__pycache__/
 nextjs-dashboard/.next/
 nextjs-dashboard/node_modules/
 nextjs-dashboard/.env.local
