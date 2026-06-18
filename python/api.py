@@ -11,7 +11,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://twój-url.vercel.app"],  # zmień na swój URL
+    allow_origins=["https://dashboardv1-black.vercel.app"],  # zmień na swój URL
     allow_methods=["GET"],
     allow_headers=["*", "x-api-key"],
 )
