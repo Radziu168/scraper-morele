@@ -1,10 +1,12 @@
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import APIKeyHeader
+from dotenv import load_dotenv
 import sqlite3
 import os
 from pathlib import Path
 
+load_dotenv()
 app = FastAPI()
 
 app.add_middleware(
@@ -33,26 +35,20 @@ def pobierz_produkty():
     conn = get_conn()
     produkty = conn.execute("""
         SELECT p.id, p.name, p.url, p.category,
-               ph.price as aktualna_cena,
-               ph.scraped_at as ostatnia_aktualizacja
+               ph1.price as aktualna_cena,
+               ph1.scraped_at as ostatnia_aktualizacja,
+               ph2.price as poprzednia_cena
         FROM products p
-        LEFT JOIN price_history ph ON ph.id = (
+        LEFT JOIN price_history ph1 ON ph1.id = (
             SELECT id FROM price_history
             WHERE product_id = p.id
             ORDER BY scraped_at DESC LIMIT 1
         )
+        LEFT JOIN price_history ph2 ON ph2.id = (
+            SELECT id FROM price_history
+            WHERE product_id = p.id
+            ORDER BY scraped_at DESC LIMIT 1 OFFSET 1
+        )
     """).fetchall()
     conn.close()
     return [dict(r) for r in produkty]
-
-@app.get("/produkty/{product_id}/historia", dependencies=[Depends(verify_key)])
-def historia_cen(product_id: int):
-    conn = get_conn()
-    historia = conn.execute("""
-        SELECT price, scraped_at
-        FROM price_history
-        WHERE product_id = ?
-        ORDER BY scraped_at ASC
-    """, (product_id,)).fetchall()
-    conn.close()
-    return [dict(r) for r in historia]
