@@ -1,25 +1,34 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.security import APIKeyHeader
 import sqlite3
+import os
 from pathlib import Path
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["https://twój-url.vercel.app"],  # zmień na swój URL
     allow_methods=["GET"],
-    allow_headers=["*"],
+    allow_headers=["*", "x-api-key"],
 )
 
 DB_FILE = Path(__file__).parent / "data" / "prices.db"
+
+API_KEY = os.getenv("API_KEY", "dev-key")
+api_key_header = APIKeyHeader(name="x-api-key")
+
+def verify_key(key: str = Depends(api_key_header)):
+    if key != API_KEY:
+        raise HTTPException(status_code=401, detail="Nieautoryzowany")
 
 def get_conn():
     conn = sqlite3.connect(DB_FILE)
     conn.row_factory = sqlite3.Row
     return conn
 
-@app.get("/produkty")
+@app.get("/produkty", dependencies=[Depends(verify_key)])
 def pobierz_produkty():
     conn = get_conn()
     produkty = conn.execute("""
@@ -36,7 +45,7 @@ def pobierz_produkty():
     conn.close()
     return [dict(r) for r in produkty]
 
-@app.get("/produkty/{product_id}/historia")
+@app.get("/produkty/{product_id}/historia", dependencies=[Depends(verify_key)])
 def historia_cen(product_id: int):
     conn = get_conn()
     historia = conn.execute("""
