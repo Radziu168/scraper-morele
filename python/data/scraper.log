@@ -192,3 +192,26 @@ Call log:
 2026-06-19 01:08:36 [DEBUG] scraper — Pobrano: Płyta główna MSI MAG B650 TOMAHAWK WIFI — 746.68 zł
 2026-06-19 01:08:36 [INFO] scraper —   📈 746.68 zł (wzrosła o 11.76 zł)
 2026-06-19 01:08:36 [INFO] scraper — === Koniec scrapowania ===
+2026-06-19 15:52:32 [INFO] scraper — === Start scrapowania ===
+2026-06-19 15:52:36 [INFO] scraper — Scrapuję 3 produktów
+2026-06-19 15:52:36 [INFO] scraper — → Gigabyte RTX 5070 Windforce OC SFF
+2026-06-19 15:52:36 [DEBUG] scraper — Scrapuję: https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-gv-n5070wf3oc-12gd-14485262/
+2026-06-19 15:52:39 [DEBUG] scraper — Pobrano: Karta graficzna Gigabyte GeForce RTX 5070 Windforce OC SFF 12GB GDDR7 DLSS4 (GV-N5070WF3OC-12GD) — 2701.97 zł
+2026-06-19 15:52:40 [INFO] scraper —   📈 2701.97 zł (wzrosła o 52.97 zł)
+2026-06-19 15:52:40 [INFO] scraper — → Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE)
+2026-06-19 15:52:40 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-06-19 15:52:52 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-06-19 15:53:05 [DEBUG] scraper — Scrapuję: https://www.morele.net/smartfon-motorola-edge-60-neo-5g-12-256gb-czerwony-pba80004se-15719198/
+2026-06-19 15:53:16 [ERROR] scraper — Nie udało się pobrać Smartfon Motorola Edge 60 Neo 5G 12/256GB Czerwony (PBA80004SE): Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#product_price") to be visible
+
+2026-06-19 15:53:16 [INFO] scraper — → Płyta główna MSI MAG B650 TOMAHAWK WIFI
+2026-06-19 15:53:16 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-06-19 15:53:29 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-06-19 15:53:41 [DEBUG] scraper — Scrapuję: https://www.morele.net/plyta-glowna-msi-mag-b650-tomahawk-wifi-12022994/
+2026-06-19 15:53:52 [ERROR] scraper — Nie udało się pobrać Płyta główna MSI MAG B650 TOMAHAWK WIFI: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#product_price") to be visible
+
+2026-06-19 15:53:52 [INFO] scraper — === Koniec scrapowania ===
