@@ -46,7 +46,15 @@ def query(sql: str, params: list = []) -> list[dict]:
         rows = result["results"][0]["response"]["result"]["rows"]
         cols = result["results"][0]["response"]["result"]["cols"]
         return [
-            {cols[i]["name"]: row[i]["value"] for i in range(len(cols))}
+            {
+                cols[i]["name"]: (
+                    None if row[i]["type"] == "null"
+                    else float(row[i]["value"]) if row[i]["type"] == "float"
+                    else int(row[i]["value"]) if row[i]["type"] == "integer"
+                    else row[i]["value"]
+                )
+                for i in range(len(cols))
+            }
             for row in rows
         ]
     except (KeyError, IndexError):
