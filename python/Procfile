@@ -1,1 +1,0 @@
-playwright install-deps chromium && playwright install chromium && python run_scraper.py
